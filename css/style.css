@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    text-decoration: none;
+}
+
+#text_h1 {
+    text-align: center;
+    background-image: url(../images/cover_background.jpg) ;
+    padding: 3px;
+}
+
+#click_to_play {
+    font-size: small;
+}
+
+nav {
+    background-color: #A9C9C4;
+}
+
+nav a {
+    padding: 10px;
+}
+
+nav1 a {
+    padding: 0px 5px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+footer {
+    font-size: small;
+}
+
+#info_me {
+    text-align: left;
+}
+
+td {
+    padding: 0px 100px;
+}
